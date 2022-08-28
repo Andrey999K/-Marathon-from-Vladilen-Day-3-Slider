@@ -1,4 +1,4 @@
-# -Marathon-from-Vladilen-Day-3-Slider
+# Marathon-from-Vladilen-Day-3-Slider
 
 Five-day Marathon from Vladilen. Day 3. Slider
 
